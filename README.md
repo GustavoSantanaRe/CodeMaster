@@ -14,7 +14,7 @@ o menu mobile não abre e o formulário recarrega a página...
 
  4. [x] Inserir animações nos títulos e nas seções de conteúdo
 
- 5. []Criar um botão que permita voltar rapidamente ao topo da página
+ 5. [x]Criar um botão que permita voltar rapidamente ao topo da página
 
  6. [] Desenvolver um sistema de exibição automática de imagens em sequência (Carrossel/Slider)
 
