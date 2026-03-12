@@ -16,7 +16,7 @@ o menu mobile não abre e o formulário recarrega a página...
 
  5. [x]Criar um botão que permita voltar rapidamente ao topo da página
 
- 6. [] Desenvolver um sistema de exibição automática de imagens em sequência (Carrossel/Slider)
+ 6. [x] Desenvolver um sistema de exibição automática de imagens em sequência (Carrossel/Slider)
 
  7. [] Formulário de contato
 
