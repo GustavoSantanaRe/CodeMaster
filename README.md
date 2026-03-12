@@ -8,7 +8,7 @@ o menu mobile não abre e o formulário recarrega a página...
 ## Lista de tarefas
 1. [x] Controlar a abertura e o fechamento do menu mobile (ícone de três linhas)
 
-2. [] Adicionar um destaque visual ao item do menu que estiver ativo
+2. [x] Adicionar um destaque visual ao item do menu que estiver ativo
 
  3. []Implementar a troca funcional entre os modos Claro e Escuro
 
