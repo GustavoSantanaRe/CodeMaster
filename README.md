@@ -21,3 +21,5 @@ o menu mobile não abre e o formulário recarrega a página...
  7. [x] Formulário de contato
 
  8. [x] Animação da seção "Spbre mim"
+
+ # Desafio finalizado
