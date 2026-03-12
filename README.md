@@ -10,7 +10,7 @@ o menu mobile não abre e o formulário recarrega a página...
 
 2. [x] Adicionar um destaque visual ao item do menu que estiver ativo
 
- 3. []Implementar a troca funcional entre os modos Claro e Escuro
+ 3. [x] Implementar a troca funcional entre os modos Claro e Escuro
 
  4. []Inserir animações nos títulos e nas seções de conteúdo
 
