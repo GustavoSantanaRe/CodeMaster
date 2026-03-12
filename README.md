@@ -12,7 +12,7 @@ o menu mobile não abre e o formulário recarrega a página...
 
  3. [x] Implementar a troca funcional entre os modos Claro e Escuro
 
- 4. []Inserir animações nos títulos e nas seções de conteúdo
+ 4. [x] Inserir animações nos títulos e nas seções de conteúdo
 
  5. []Criar um botão que permita voltar rapidamente ao topo da página
 
