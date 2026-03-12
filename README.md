@@ -18,7 +18,6 @@ o menu mobile não abre e o formulário recarrega a página...
 
  6. [x] Desenvolver um sistema de exibição automática de imagens em sequência (Carrossel/Slider)
 
- 7. [] Formulário de contato
+ 7. [x] Formulário de contato
 
- 8. [] Animação da seção "Spbre mim"
-
+ 8. [x] Animação da seção "Spbre mim"
